@@ -1,4 +1,4 @@
-## 🚀 **Mu2 Infinity - E-Commerce Website**
+## 🚀 **MK.Fashion- E-Commerce Website**
 
 A fully responsive **E-Commerce Website** built using the **MERN Stack** (MongoDB, Express, React, Node.js), **Firebase**, and **Tailwind CSS**. Mu2 Infinity delivers a seamless user experience with modern design and functionality.
 
@@ -147,11 +147,11 @@ server/
 
 ### 🔗 **Live Website**
 
-[Mu2 Infinity Live Website](https://mu2infinity-ecommerce-mern.vercel.app/)
+[MK.Fashion Live Website]()
 
 ### 📂 **Repository**
 
-[GitHub Repository](https://github.com/M-Muthu-Pandi/MERN-Stack-E-Commerce-Website.git)
+[GitHub Repository]()
 
 ---
 
@@ -202,6 +202,6 @@ server/
 
 ### 🤝 **Connect with Me**
 
-- **LinkedIn**: https://www.linkedin.com/in/muthupandim/
+- **LinkedIn**: ()
 
 ---

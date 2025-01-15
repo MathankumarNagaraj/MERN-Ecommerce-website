@@ -160,7 +160,7 @@ server/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/M-Muthu-Pandi/MERN-Stack-E-Commerce-Website.git
+   https://github.com/MathankumarNagaraj/MERN-Ecommerce-website.git
    ```
 
 2. Install dependencies:  

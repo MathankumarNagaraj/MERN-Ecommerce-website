@@ -1,6 +1,6 @@
 ## 🚀 **MK.Fashion- E-Commerce Website**
 
-A fully responsive **E-Commerce Website** built using the **MERN Stack** (MongoDB, Express, React, Node.js), **Firebase**, and **Tailwind CSS**. Mu2 Infinity delivers a seamless user experience with modern design and functionality.
+A fully responsive **E-Commerce Website** built using the **MERN Stack** (MongoDB, Express, React, Node.js), **Firebase**, and **Tailwind CSS**. Mk.Fashion Infinity delivers a seamless user experience with modern design and functionality.
 
 ---
 
